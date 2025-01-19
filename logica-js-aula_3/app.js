@@ -56,3 +56,4 @@ console.log(numeroInteiro1a10);
 // Gerar um número inteiro aleatório entre 1 e 1000:
 let numeroInteiro1a1000 = Math.floor(Math.random() * 1000) + 1;
 console.log(numeroInteiro1a1000);
+// Final dos exercícios da aula 3.
